@@ -1,6 +1,8 @@
 pouchdb-vhost
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-vhost.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-vhost.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-vhost)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-vhost.svg)](https://david-dm.org/pouchdb/pouchdb-vhost)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-vhost/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-vhost#info=devDependencies)
