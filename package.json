@@ -19,7 +19,7 @@
   "author": "Marten de Vries",
   "dependencies": {
     "promise-nodify": "^1.0.0",
-    "pouchdb-route": "^1.0.0"
+    "pouchdb-route": "^4.0.1"
   },
   "devDependencies": {
     "pouchdb-plugin-helper": "^3.0.0",
